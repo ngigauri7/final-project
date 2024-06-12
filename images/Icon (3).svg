@@ -1,0 +1,12 @@
+<svg width="38" height="26" viewBox="0 0 38 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="38" height="26" fill="#F5F5F5"/>
+<g id="Desktop home page" clip-path="url(#clip0_237_160)">
+<rect width="1440" height="2176" transform="translate(-1303 -999)" fill="white"/>
+<path id="Icon" d="M1 13H37M37 13L23.5 1M37 13L23.5 25" stroke="#222222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_237_160">
+<rect width="1440" height="2176" fill="white" transform="translate(-1303 -999)"/>
+</clipPath>
+</defs>
+</svg>

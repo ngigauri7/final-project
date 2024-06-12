@@ -1,0 +1,21 @@
+<svg width="26" height="30" viewBox="0 0 26 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="26" height="30" fill="#F5F5F5"/>
+<g id="Desktop home page" clip-path="url(#clip0_237_160)">
+<rect width="1440" height="2176" transform="translate(-1190 -29)" fill="white"/>
+<g id="Frame 129">
+<rect width="1441" height="88" transform="translate(-1190 -29)" fill="#384B06"/>
+<g id="Frame 128">
+<rect x="-38" y="-9" width="189" height="48" rx="10" fill="#E9E9E9"/>
+<g id="Frame 22">
+<rect width="111" height="28" transform="translate(1 1)" fill="#E9E9E9"/>
+<path id="Icon" d="M25 29C25 26.8291 25 25.7437 24.7416 24.8604C24.1599 22.8718 22.6593 21.3156 20.7417 20.7124C19.89 20.4444 18.8433 20.4444 16.75 20.4444H9.25001C7.15666 20.4444 6.10998 20.4444 5.25829 20.7124C3.34068 21.3156 1.84006 22.8718 1.25836 24.8604C1 25.7437 1 26.8291 1 29M19.75 8C19.75 11.866 16.7279 15 13 15C9.27208 15 6.25 11.866 6.25 8C6.25 4.13401 9.27208 1 13 1C16.7279 1 19.75 4.13401 19.75 8Z" stroke="#222222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_237_160">
+<rect width="1440" height="2176" fill="white" transform="translate(-1190 -29)"/>
+</clipPath>
+</defs>
+</svg>

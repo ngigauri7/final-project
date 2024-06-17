@@ -846,7 +846,7 @@ iframe {
 @media (max-width: 680px) {
   .wrapper {
     flex-direction: column;
-    margin-left: 100px;
+
     text-align: center;
   }
   .container {
@@ -857,7 +857,7 @@ iframe {
   }
 
   header {
-    width: 577px;
+    width: 430px;
   }
 
   .headerdiv {
@@ -870,7 +870,7 @@ iframe {
   }
 
   .s1 {
-    width: 577px;
+    width: 430px;
     height: 300px;
     margin-top: -20px;
   }
@@ -883,11 +883,11 @@ iframe {
 
   .section3 {
     text-align: middle;
-    margin-left: 60px;
+    
   }
 
   footer {
-    width: 577px;
+    width: 430px;
   }
 
   .logo {
